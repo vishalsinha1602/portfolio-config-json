@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/yourusername",
+      "icon": "FaLinkedin"
+    },
+    {
+      "label": "WhatsApp",
+      "url": "https://wa.me/7011088059",
+      "icon": "FaWhatsapp"
+    },
+    {
+      "label": "Email",
+      "url": "mailto:youremail@example.com",
+      "icon": "FaEnvelope"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/yourusername",
+      "icon": "FaGithub"
+    }
+  ]
+}

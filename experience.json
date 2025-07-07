@@ -1,0 +1,44 @@
+{
+  "title": "Experience",
+  "experienceData": [
+    {
+      "img": "/assets/company/infosys.png",
+      "title": "Senior Associate Consultant",
+      "company": "INFOSYS LIMITED, Noida, India",
+      "duration": "FEB, 2025 - Present",
+      "points": [
+        "Implemented streaming pipelines on Databricks for real-time data processing, enhancing data availability by 20%.",
+        "Assisted in the development and maintenance of data pipelines using Databricks and PySpark, improving data processing efficiency by 15%.",
+        "Supported ongoing ETL and data processing tasks, ensuring 99.9% data accuracy and smooth data operations.",
+        "Collaborated with cross-functional teams to gather data requirements and optimize workflows, reducing project turnaround time by 10%.",
+        "Utilized Python for scripting data transformation and manipulation, automating tasks and saving 5 hours per week."
+      ]
+    },
+    {
+      "img": "/assets/company/tcs.png",
+      "title": "Systems Engineer",
+      "company": "TATA CONSULTANCY SERVICES, Noida, India",
+      "duration": "FEB, 2020 - JAN, 2025",
+      "points": [
+        "Built real-time streaming pipelines for TotalEnergies using Databricks & PySpark, processing 100TB of sensor data daily.",
+        "Developed batch processing pipelines with Python & Azure Function Apps, improving reporting & analytics generation time by 40%.",
+        "Automated Databricks job monitoring with Python & Microsoft Teams, reducing manual effort by 2 hours daily and improving system reliability.",
+        "Designed and optimized ETL workflows, increasing data integrity and accuracy by 25%.",
+        "Automated data processing tasks using Python, boosting overall efficiency by 30%.",
+        "Led a 6-member cross-functional team, fostering collaboration across business units and delivering projects 15% ahead of schedule.",
+        "Developed Interactive Electronic Technical Manuals (IETMs) using XML & HTML, enhancing user experience and reducing training time."
+      ]
+    },
+    {
+      "img": "/assets/company/satyam.png",
+      "title": "Hardware Design Engineer",
+      "company": "SATYAM SOFTWARE SOLUTIONS PVT. LTD., Noida, India",
+      "duration": "JUNE, 2019 - FEB, 2020",
+      "points": [
+        "Designed schematics and PCB layouts for Smart Ticket Vending Machines and AFC Gates for Delhi Metro Rail Corporation.",
+        "Created PCB layouts using Altium Designer and Ki-CAD, improving design accuracy by 20%.",
+        "Performed testing and validation of hardware designs, ensuring 98% reliability and adherence to quality standards."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "firstName": "VIVEK",
+  "lastName": "PANDEY",
+  "title": "AZURE DATA ENGINEER",
+  "resumeLink": "/resume.pdf",
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/vivek-pandey"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/vivekpandey"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/vivekpandey"
+    },
+    {
+      "label": "WhatsApp",
+      "url": "https://wa.me/919876543210",
+      "icon": "FaWhatsapp"
+    }
+  ]
+}
