@@ -2,17 +2,17 @@
   "name": "Vivek Pandey",
   "role": "Azure Data Engineer",
   "avatar": "/assets/my-avatar.png",
-  "badge": "/assets/Badge.png",
+
   "contacts": [
     {
       "type": "email",
       "title": "Email",
-      "value": "vivek@example.com"
+      "value": "vivekpandey.iimt@gmail.com"
     },
     {
       "type": "phone",
       "title": "Phone",
-      "value": "+91 7488496158"
+      "value": "+91 7011088059"
     },
     {
       "type": "github",
@@ -23,7 +23,7 @@
     {
       "type": "location",
       "title": "Location",
-      "value": "Bangalore, India"
+      "value": "Noida, U.P., India"
     }
   ]
 }
